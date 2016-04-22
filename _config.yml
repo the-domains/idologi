@@ -1,0 +1,28 @@
+name: idologi
+favicon: null
+layout_spectrum: 0.47266333154402673
+typography_spectrum: 0.0761209474876523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4084787799511105
+  lightness: 0.875370713416487
+  saturation: 0.9651587626431137
+  rhythmicContrast: 0.8759600699413568
+purpose: []
